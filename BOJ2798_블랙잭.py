@@ -4,8 +4,7 @@ N장의 카드가 주어지고, 각 카드에는 양의 정수가 쓰여있다.
 N장의 카드 중에서 순서에 상관 없이 3장을 뽑는 조합(Combination) 문제.
 '''
 
-import sys, time
-sys.setrecursionlimit(1000000)
+import sys
 sys.stdin = open('BOJ2798_블랙잭.txt', 'r')
 
 
@@ -28,7 +27,6 @@ def combination(index, next, mx):
 
 
 # 2. 입력 받기
-s = time.time()
 N, M = map(int, input().split())
 numlist = list(map(int, input().split()))
 visited = [False] * N
@@ -36,8 +34,6 @@ blackjack = 0
 empty = []
 combination(0, 0, blackjack)
 print(max(empty))
-e = time.time()
-print(e-s)
 
 # for i in range(N):
 #     for j in range(i+1, N):
