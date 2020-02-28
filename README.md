@@ -4,7 +4,7 @@
 | :--------: | :-----------------------------------------------------: | :-------------: |
 | 2020.02.19 | [BOJ2798_블랙잭](https://www.acmicpc.net/problem/2798)  |   BruteForce    |
 | 2020.02.27 | [BOJ11047_동전0](https://www.acmicpc.net/problem/11047) | GreedyAlgorithm |
-|            |                                                         |                 |
+| 2020.02.28 |  [BOJ2573_빙산](https://www.acmicpc.net/problem/2573)   |       BFS       |
 |            |                                                         |                 |
 |            |                                                         |                 |
 |            |                                                         |                 |
