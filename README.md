@@ -5,7 +5,7 @@
 | 2020.02.19 | [BOJ2798_블랙잭](https://www.acmicpc.net/problem/2798)  |      BruteForce      |
 | 2020.02.27 | [BOJ11047_동전0](https://www.acmicpc.net/problem/11047) |   GreedyAlgorithm    |
 | 2020.02.28 |  [BOJ2573_빙산](https://www.acmicpc.net/problem/2573)   |         BFS          |
-| 2020.03.03 |  [BOJ2206_빙산](https://www.acmicpc.net/problem/2206)   | BFS (*3차원 visited) |
+| 2020.03.03 |  [BOJ2206_벽부수고이동하기](https://www.acmicpc.net/problem/2206)   | BFS (*3차원 visited) |
 |            |                                                         |                      |
 |            |                                                         |                      |
 |            |                                                         |                      |
